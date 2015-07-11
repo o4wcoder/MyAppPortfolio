@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BlueGreyDarkPrimary">#455A64</color>
+    <color name="BlueGreyPrimary">#607D8B</color>
+    <color name="BlueGreyLightPrimary">#CFD8DC</color>
+    <color name="TealAccent">#009688</color>
+    <color name="PrimaryText">#212121</color>
+    <color name="White">#FFFFFF</color>
+</resources>
